@@ -16,7 +16,7 @@ nav{
 }
 
 .logo{
-    width: 300px;
+    width: 260px;
     margin-left: 50px;
     margin-top: 10px;
 }
@@ -813,6 +813,11 @@ body{
 
 @media screen and (max-width: 450px){
 
+    .logo{
+        width: 160px;
+
+    }
+
 .titulo-pelicula{
     font-size: 25px;
 }
@@ -866,6 +871,10 @@ gap: 10px;
 
 @media screen and (max-width: 400px){
 
+    .logo{
+        width: 160px;
+    }
+
     .titulo-pelicula{
         font-size: 20px;
     }
@@ -894,6 +903,11 @@ gap: 10px;
 }
 
 @media screen and (max-width: 350px){
+
+    .logo{
+        width: 160px;
+
+    }
 
 
     .projects__item p{
